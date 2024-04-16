@@ -12,3 +12,4 @@ G:\Cursos\Microsoft Learn\CSharp Parte 4\mslearn-modulo4-aula4-exercicio-formata
 G:\Cursos\Microsoft Learn\CSharp Parte 4\mslearn-modulo4-aula4-exercicio-formatacao-da-saida\obj\Debug\net8.0\mslearn-modulo4-aula4-exercicio-formatacao-da-saida.pdb
 G:\Cursos\Microsoft Learn\CSharp Parte 4\mslearn-modulo4-aula4-exercicio-formatacao-da-saida\obj\Debug\net8.0\mslearn-modulo4-aula4-exercicio-formatacao-da-saida.genruntimeconfig.cache
 G:\Cursos\Microsoft Learn\CSharp Parte 4\mslearn-modulo4-aula4-exercicio-formatacao-da-saida\obj\Debug\net8.0\ref\mslearn-modulo4-aula4-exercicio-formatacao-da-saida.dll
+G:\Cursos\Microsoft Learn\CSharp Parte 4\mslearn-modulo4-aula4-exercicio-formatacao-da-saida\obj\Debug\net8.0\mslearn-modulo4-aula4-exercicio-formatacao-da-saida.sourcelink.json
