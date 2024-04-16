@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mslearn-modulo4-aula4-exercicio-formatacao-da-saida")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89523a12edd2b94b53b408bf2a113d7440b3dbd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8af5206b270312dd4a40b80fe08ba24b6aea95e")]
 [assembly: System.Reflection.AssemblyProductAttribute("mslearn-modulo4-aula4-exercicio-formatacao-da-saida")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mslearn-modulo4-aula4-exercicio-formatacao-da-saida")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
